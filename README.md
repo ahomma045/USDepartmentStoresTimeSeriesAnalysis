@@ -1,7 +1,7 @@
-# US DepartmentStores Time  Series Analysis
+# US Department Stores Time  Series Analysis
 
 ## Overview & Problem Statement
-The objective of this project is to develop a time series analysis and forecasting model that accurately predicts the overall retail channel sales for department stores in the US, using the US Census Monthly Retail Sales data. The model should take into account factors such as seasonality, trends, and holidays, and should be trained and tested on historical sales data to optimize its performance.
+In this project, we will develop a time series analysis and forecasting model that accurately predicts the overall retail channel sales for department stores in the US, using the US Census Monthly Retail Sales data. The model should take into account factors such as seasonality, trends, and holidays, and should be trained and tested on historical sales data to optimize its performance.
 The outcome of this project will provide valuable insights into the underlying patterns and trends in the data, allowing department stores to make informed decisions about their sales strategies, inventory management, pricing, and marketing efforts. By accurately forecasting overall retail channel sales, department stores can enhance their profitability and competitiveness in the market.
 
 ---
